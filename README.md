@@ -1,1 +1,1 @@
-# DDD-Generator
+# Open-EggCode
