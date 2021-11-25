@@ -15,7 +15,7 @@ var (
 		Short: "Output current version number",
 		Long:  `Output current version number`,
 		RunE: func(cmd *cobra.Command, args []string) (err error) {
-			fmt.Println("freedom " + versionNum)
+			fmt.Println("open-ddd " + versionNum)
 			return
 		},
 	}

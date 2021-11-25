@@ -1,0 +1,23 @@
+# Compiled Object codefiles, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+logs
+gen
+logrus.log
+
+# Specific Files
+*.exe
+*.local
+*.dev
+*.test
+#.idea
+.vscode
+.log
+*.tmp
+*.log
+
